@@ -1,0 +1,6 @@
+transaction_id,listing_id,agent_employee_id,transaction_type,transaction_status,transaction_amount,monthly_rent,lease_start_date,lease_end_date,closing_date,commission_amount
+1,1,67,sale,pending,,,,,,
+2,5,46,rental,closed,,7225.41,2022-06-12,2023-06-12,2022-05-31,3612.7
+3,6,66,sale,pending,,,,,,
+4,7,30,rental,pending,,,,,,
+5,8,26,sale,closed,1440454.0,,,,2021-10-31,28809.08
